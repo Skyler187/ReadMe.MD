@@ -17,7 +17,7 @@ I'm a passionate developer with experience in building Discord bots, web applica
 ## 🛠️ Skills & Technologies
 - **Languages:** JavaScript (Node.js), C++, LUA
 - **Frameworks & Libraries:** Discord.js, Express.js
-- **Databases:** MongoDB, PostgreSQL
+- **Databases:** MongoDB, MySQL
 - **Web Development:** HTML, CSS, React
 - **Other Tools:** Docker, Git, WebSockets, REST APIs
 

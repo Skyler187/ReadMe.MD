@@ -1,6 +1,6 @@
 # About Me
 
-## 👋 Hello! I'm [Your Name]
+## 👋 Hello! I'm Skyler
 
 ### 🏢 COO @ [SynthHosting.com](https://synthhosting.com)
 
